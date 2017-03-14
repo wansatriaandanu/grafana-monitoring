@@ -1,2 +1,2 @@
 # grafana-monitoring
-Grafana dashboards
+Collection for grafana dashboards
